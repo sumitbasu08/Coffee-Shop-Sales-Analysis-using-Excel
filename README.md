@@ -1,4 +1,4 @@
-#Coffee Shop#
+#Coffee Shop
 
 Objective:
 Analyse the retail sales data to gain actionable insights that will enhance the performance of the shop.
