@@ -4,6 +4,7 @@ Objective:
 Analyse the retail sales data to gain actionable insights that will enhance the performance of the shop.
 
 Recommended Analysis:
+
 1.How do sales vary by day of the week & hour of the day?
 
 2.Are there and peak times for sales activity?
