@@ -1,11 +1,19 @@
+#Coffee Shop#
+
 Objective:
-	Analyse the retail sales data to gain actionable insights that will enhance the performance of the shop.
+Analyse the retail sales data to gain actionable insights that will enhance the performance of the shop.
 
 Recommended Analysis:
-	How do sales vary by day of the week & hour of the day?
-	Are there any peak times for sales activity?
-	What is the total sales revenue for each month?
-	How do sales vary across different store locations?
-	What is the average price/order per person?
-	Which product are the best-selling in terms of quantity & revenue?
-	How do sales vary by product category and type?
+1.How do sales vary by day of the week & hour of the day?
+
+2.Are there and peak times for sales activity?
+
+3.What is the total sales revenue for each month?
+
+4.How do sales vary across different store locations?
+
+5.What is the average price/order per person?
+
+6.Which product are the best-selling in terms of quantity & revenue?
+
+7.How do sales vary by product category and type?
